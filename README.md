@@ -1,4 +1,4 @@
-# holman does dotfiles
+# my dotfiles fork from holman does dotfiles (https://github.com/holman/dotfiles/)
 
 Your dotfiles are how you personalize your system. These are mine.
 
